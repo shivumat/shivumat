@@ -2,7 +2,7 @@
 
 **AI products people can check:** data-dense interfaces built on measured LLM systems.
 
-I'm a senior full-stack engineer with 8+ years in React and TypeScript, from micro-frontends to backend architecture. Now I build LLM systems where every number links to how it was measured.
+I'm a senior full-stack engineer with 7+ years in React and TypeScript, from micro-frontends to backend architecture. Now I build LLM systems where every number links to how it was measured.
 
 ### Live now
 
@@ -22,5 +22,12 @@ Each repo goes public with its first release, along with its numbers and how the
 - **eval-kit**: TypeScript-first LLM evals with calibrated judges and CI gates
 - **job-runner**: a durable Postgres job runner, proven under chaos tests
 - **Incident Copilot**: an agent that links every claim to a span, log or metric
+
+### Earlier products (archived)
+
+I shut down both backends in November 2026 to stop running costs. The engineering write-ups stay up.
+
+- **[Check Is It AI](https://www.shivumat.me/#work-check-is-it-ai)**: AI media forensics combining Claude vision with client-side Error Level Analysis (under 200 ms, no server cost) and atomic credit accounting in Postgres
+- **[LiquidHQ](https://www.shivumat.me/#work-liquidhq)**: Shopify sections generated from a prompt, streamed from Claude over SSE and validated with liquidjs before returning, across a 7-repo service architecture
 
 [Get in touch](https://www.shivumat.me/#contact)
