@@ -2,7 +2,7 @@
 
 **AI products people can check:** data-dense interfaces built on measured LLM systems.
 
-I'm a senior full-stack engineer with 7+ years in React and TypeScript, from micro-frontends to backend architecture. Now I build LLM systems where every number links to how it was measured.
+I'm a senior full-stack engineer with 8+ years in React and TypeScript, from micro-frontends to backend architecture. Now I build LLM systems where every number links to how it was measured.
 
 ### Live now
 
