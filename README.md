@@ -23,8 +23,8 @@ Hi, I'm Shivank: a senior full-stack engineer by trade, and a compulsive builder
 
 <!-- live:start -->
 - Latest write-up: the first one lands in December
-- `@shivumat/tokens` downloads last week: 397
-- Checked 21 November 2026 by a GitHub Action
+- `@shivumat/tokens` downloads last week: 413
+- Checked 22 November 2026 by a GitHub Action
 <!-- live:end -->
 
 <sub>Retired: [Check Is It AI](https://www.shivumat.me/#work-check-is-it-ai) and [LiquidHQ](https://www.shivumat.me/#work-liquidhq), switched off in November 2026 to stop paying for servers. The write-ups stay.</sub>
